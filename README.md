@@ -1,1 +1,1 @@
-  
+Akin to Amazon Alexa of Google Home mini, this node-red template creates an IBM Home Assistant IoT device by leveraging IBM Watson APIs (STT, TTS), REST API for data scraping, and Python for data cleansing and preparation.
